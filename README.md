@@ -51,6 +51,8 @@ Clean, modular design using object-oriented principles.
 Learning Outcomes
 This project deepened my understanding of how interpreters and compilers handle expression parsing. I gained hands-on experience with recursive functions, operator precedence management, and building custom parsers. It also reinforced key programming concepts like string manipulation, control structures, and exception handling in C++.
 
+*OUTPUT*:![Image](https://github.com/user-attachments/assets/a61880c0-78d4-4dc1-963e-7c208c63d46d)
+
 Moreover, I learned how to write maintainable code using classes and how to separate logic cleanly across methods. The project mirrors real-world problems in programming language development, data processing, and scripting engine implementation.
 
 Conclusion
